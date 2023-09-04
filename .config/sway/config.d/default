@@ -38,6 +38,10 @@ exec swayidle -w\
 ## Lock Screen
     bindsym $mod+f1 exec ~/.config/sway/scripts/lockman.sh
 
+## Auto Tiling
+exec autotiling-rs
+
+
 ### Key bindings
 #
 # Basics:

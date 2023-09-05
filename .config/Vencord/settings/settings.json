@@ -3,9 +3,7 @@
     "autoUpdate": false,
     "autoUpdateNotification": true,
     "useQuickCss": true,
-    "themeLinks": [
-        "https://discordstyles.github.io/DarkMatter/DarkMatter.theme.css"
-    ],
+    "themeLinks": [],
     "enabledThemes": [],
     "enableReactDevtools": false,
     "frameless": false,
@@ -449,6 +447,6 @@
         "authenticated": false,
         "url": "https://api.vencord.dev/",
         "settingsSync": false,
-        "settingsSyncVersion": 1693811903845
+        "settingsSyncVersion": 1693825511934
     }
 }

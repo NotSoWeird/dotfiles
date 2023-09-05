@@ -87,3 +87,4 @@ _open_files_for_editing() {
 
 alias config='/usr/bin/git --git-dir=$HOME/dotfiles/ --work-tree=$HOME'
 alias la='ls -la'
+alias gotoconfig='cd $HOME/.config/'

@@ -1,6 +1,0 @@
-2023/09/04-08:37:53.412 1ee3 Reusing MANIFEST /home/notsoweird/.config/discord/Local Storage/leveldb/MANIFEST-000001
-2023/09/04-08:37:53.413 1ee3 Recovering log #4
-2023/09/04-08:37:53.413 1ee3 Reusing old log /home/notsoweird/.config/discord/Local Storage/leveldb/000004.log 
-2023/09/04-08:39:54.057 1ee3 Level-0 table #8: started
-2023/09/04-08:39:54.075 1ee3 Level-0 table #8: 1903145 bytes OK
-2023/09/04-08:39:54.087 1ee3 Delete type=0 #4

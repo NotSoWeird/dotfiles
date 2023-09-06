@@ -17,7 +17,7 @@ smart_borders on
 # Set wallpaper:
 exec swww img ~/Pictures/wallpapers/wallpapers/nord-rainbow-dark.png
 
-#exec_always ~/.config/sway/scripts/swww_randomize.sh ~/Pictures/wallpapers/
+exec_always ~/.config/sway/scripts/swww_randomize.sh ~/Pictures/wallpapers/wallpapers
 
 # Title format for windows
 for_window [shell="xdg_shell"] title_format "%title (%app_id)"
